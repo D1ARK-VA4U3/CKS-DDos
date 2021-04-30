@@ -1,3 +1,8 @@
+hi i am Rh-king.  this tool's only for abduction purposes
+cyber king squad .white hat hackers team
+
+Update and strong tools Cks
+
 # CKS-DDOS
 
 $apt update && apt upgrade
@@ -10,7 +15,7 @@ $pip2 install requests
 
 $apt install figlet
 
-$git clone https://github.com/Rhbos/CKS-DDOS
+$git clone https://github.com/RhkingCKS/CKS-DDos
 
 $cd CKS-DDOS
 
